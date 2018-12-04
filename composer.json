@@ -1,0 +1,16 @@
+{
+    "name": "dikiSupriadi/oursche",
+    "description": "Simple BOT",
+    "type": "project",
+    "require": {
+        "php": "^7.1",
+        "slim/slim": "^3.11",
+        "linecorp/line-bot-sdk": "^3.6"
+    },
+    "authors": [
+        {
+            "name": "DIKI SUPRIADI",
+            "email": "dikisupriadi021@gmail.com"
+        }
+    ]
+}
